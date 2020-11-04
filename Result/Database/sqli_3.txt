@@ -1,0 +1,10 @@
+Information_schema
+Bwapp
+Cdcol
+Mysql
+Phpmyadmin
+Snort
+Test
+Webauth
+
+Database use in: Bwapp
